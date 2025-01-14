@@ -18,10 +18,11 @@ O projeto está configurado para utilizar o framework **.NET 9.0**. Certifique-s
 4. Restaure as dependências do projeto:  
    ```bash
    dotnet restore
-
-  ```bash``   
+   	```
+  ```bash
    dotnet build
-
+```
   ```bash
    dotnet run
+```
 
