@@ -12,17 +12,17 @@ O projeto está configurado para utilizar o framework **.NET 9.0**. Certifique-s
 2. Extraia os arquivos (se necessário).
 3. Abra o diretório do projeto em sua IDE ou diretamente no terminal.
    - Se estiver usando o VS Code, execute o comando:  
-     ```bash
-     code .
-     ```
+   ```bash
+      code .
+   ```
 4. Restaure as dependências do projeto:  
    ```bash
    dotnet restore
    	```
   ```bash
    dotnet build
-```
+   ```
   ```bash
    dotnet run
-```
+  ```
 
